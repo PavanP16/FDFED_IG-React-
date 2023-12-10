@@ -2,7 +2,7 @@ import "../../Styles/Faqs.css";
 
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import FaqSpeak from "../Faq/Faqspeak";
+import FaqSpeak from "../Faq/FaqSpeak";
 import FaqQuestions from "../Faq/FaqsQuestions";
 
 const Faqs = () => {
